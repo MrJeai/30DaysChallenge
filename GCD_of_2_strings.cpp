@@ -19,6 +19,8 @@ Input: str1 = "LEET", str2 = "CODE"
 Output: ""
 
 https://helloacm.com/how-to-compute-the-greatest-common-divisor-of-strings/
+
+NOTE: FOR GCD OF N STRINGS ->> https://www.geeksforgeeks.org/program-to-find-greatest-common-divisor-gcd-of-n-strings/
 */
 
 
