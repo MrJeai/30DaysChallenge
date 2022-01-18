@@ -29,6 +29,9 @@ Constraints:
 K ≤ N
 1 ≤ array[i] ≤ 105
 
+
+https://practice.geeksforgeeks.org/problems/k-largest-elements3736/1/?company[]=Amazon&company[]=Amazon&page=1&query=company[]Amazonpage1company[]Amazon#
+
 */
 
 
